@@ -1,6 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-image : "IMG_2251.PNG"
+image : "images/portrait.png"
 # button
 button:
   enable : true
