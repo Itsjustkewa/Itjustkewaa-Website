@@ -1,5 +1,5 @@
 ---
-title : "Itsjuskewa"
+title : "Itsjustkewa"
 # full screen navigation
 first_name : "Oluwafiyikewa"
 last_name : "Alawode"
